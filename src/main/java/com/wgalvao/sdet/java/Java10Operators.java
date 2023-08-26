@@ -7,8 +7,7 @@ package com.wgalvao.sdet.java;
  * Comparison Operators
  * Logical Operators
  * Bitwise Operators
- * Left is 9 which is 0000 1001 in Binary
- * Right is 8 which is 0000 1000 in Binary
+ * 
  */
 
 public class Java10Operators {

@@ -1,11 +1,5 @@
 package com.wgalvao.sdet.java;
 
-/**
- * 
- * statement if true
- * statement if false
- */
-
 public class Java13WhileLoops {
     public static void main(String[] args) {
 
@@ -32,7 +26,9 @@ public class Java13WhileLoops {
         } while (count < 10);
 
         System.out.println("Laços while aninhados");
+
         int dozens = 0;
+
         while (dozens < 10) {
             int units = 0;
             while (units < 10) {

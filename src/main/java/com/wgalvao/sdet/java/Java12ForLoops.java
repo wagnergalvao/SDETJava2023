@@ -1,11 +1,5 @@
 package com.wgalvao.sdet.java;
 
-/**
- * 
- * statement if true
- * statement if false
- */
-
 public class Java12ForLoops {
     public static void main(String[] args) {
 
@@ -30,6 +24,7 @@ public class Java12ForLoops {
         }
 
         System.out.println("Laços for aninhados");
+
         for (int dozens = 0; dozens < 10; dozens++) {
             for (int units = 0; units < 10; units++) {
             String text = dozens + " dezenas e " + units + " unidades é igual a " + dozens + units;

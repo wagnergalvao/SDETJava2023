@@ -32,7 +32,8 @@ public class Java12ForLoops {
         System.out.println("Laços for aninhados");
         for (int dozens = 0; dozens < 10; dozens++) {
             for (int units = 0; units < 10; units++) {
-            System.out.println(dozens + " dezenas e " + units + "unidades é igual a " + dozens + units);
+            String text = dozens + " dezenas e " + units + " unidades é igual a " + dozens + units;
+            System.out.println(text);
 
             }
         }

@@ -27,9 +27,8 @@ public class Java12ForLoops {
 
         for (int dozens = 0; dozens < 10; dozens++) {
             for (int units = 0; units < 10; units++) {
-            String text = dozens + " dezenas e " + units + " unidades é igual a " + dozens + units;
-            System.out.println(text);
-
+                String text = dozens + " dezenas e " + units + " unidades é igual a " + dozens + units;
+                System.out.println(text);
             }
         }
 

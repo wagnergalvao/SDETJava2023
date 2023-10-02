@@ -1,4 +1,4 @@
-package com.wgalvao.sdet;
+package com.wgalvao.sdet.java;
 
 public class Java17App {
     public static void main(String[] args) {

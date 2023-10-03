@@ -35,5 +35,7 @@ public class Java15UserInput {
         } catch (InputMismatchException e) {
             System.out.println("Digite um número inteiro entre -2147483648 e 2147483647");
         }
+
+        scanner.close();
     }
 }

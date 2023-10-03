@@ -1,6 +1,5 @@
 package com.wgalvao.sdet.java;
 
-import java.time.DayOfWeek;
 import java.time.LocalDateTime;
 
 /**

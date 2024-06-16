@@ -1,6 +1,6 @@
 package com.wgalvao.sdet.java;
 
-public class Java13WhileLoops {
+public class Java14WhileLoops {
     public static void main(String[] args) {
 
         int count = 0;

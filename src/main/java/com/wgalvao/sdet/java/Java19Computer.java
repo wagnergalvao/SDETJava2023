@@ -6,7 +6,12 @@ public class Java19Computer {
     String HARDDISK;
     String MOTHERBOARD;
 
-    int additions(int firstNumber, int secondNumber) {
-        return firstNumber + secondNumber;
+    void showInfo() {
+        System.out.println(
+                "Show Info: GPU " + GPU + " Harddisk " + HARDDISK + " Motherboard " + MOTHERBOARD + " RAM " + RAM);
+    }
+
+    String showSpecs() {
+        return "Show Specs: GPU " + GPU + " Harddisk " + HARDDISK + " Motherboard " + MOTHERBOARD + " RAM " + RAM;
     }
 }

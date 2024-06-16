@@ -1,6 +1,6 @@
 package com.wgalvao.sdet.java;
 
-public interface Java26Info {
+public interface Java28Info {
     void showInfo();
 
 }

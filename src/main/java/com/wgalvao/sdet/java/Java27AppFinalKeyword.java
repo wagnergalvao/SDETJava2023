@@ -1,11 +1,11 @@
 package com.wgalvao.sdet.java;
 
-public class Java25App {
+public class Java27AppFinalKeyword {
     public static void main(String[] args) {
-        Java25Car car = new Java25Car();
-        Java25Motorcycle motorcycle = new Java25Motorcycle();
+        Java27Car car = new Java27Car();
+        Java27Motorcycle motorcycle = new Java27Motorcycle();
         System.out.println("Final keyword só pode ser atruibída com valor constante");
-        System.out.println("public abstract class Java25Vehicle {\r\n" + //
+        System.out.println("public abstract class Java27Vehicle {\r\n" + //
                 "    private int id;\r\n" + //
                 "    private final String brand = \"Audi\";");
         System.out.println();

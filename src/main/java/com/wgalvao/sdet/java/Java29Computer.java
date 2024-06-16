@@ -1,6 +1,6 @@
 package com.wgalvao.sdet.java;
 
-public abstract class Java27Computer {
+public abstract class Java29Computer {
 
     public abstract void start();
 

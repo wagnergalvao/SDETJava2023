@@ -1,6 +1,6 @@
 package com.wgalvao.sdet.java;
 
-public abstract class Java25Vehicle {
+public abstract class Java27Vehicle {
     private int id;
     private final String brand = "Audi";
 

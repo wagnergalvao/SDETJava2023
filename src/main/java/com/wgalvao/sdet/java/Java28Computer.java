@@ -1,6 +1,6 @@
 package com.wgalvao.sdet.java;
 
-public class Java26Computer implements Java26Info {
+public class Java28Computer implements Java28Info {
     private int id = 1;
 
     public void start() {

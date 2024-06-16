@@ -1,8 +1,8 @@
 package com.wgalvao.sdet.java;
 
-public class Java19App {
+public class Java20AppMethodParameters {
     public static void main(String[] args) {
-        Java19Computer computer1 = new Java19Computer();
+        Java20Computer computer1 = new Java20Computer();
         computer1.GPU = "Nvidia";
         computer1.HARDDISK = "Seagate";
         computer1.MOTHERBOARD = "ASUS";

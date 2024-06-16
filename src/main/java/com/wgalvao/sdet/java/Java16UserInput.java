@@ -12,7 +12,7 @@ import java.util.Scanner;
  * 
  */
 
-public class Java15UserInput {
+public class Java16UserInput {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
  * 
  */
 
-public class Java16SwitchCaseStatement {
+public class Java17SwitchCaseStatements {
     public static void main(String[] args) {
 
         LocalDateTime now = LocalDateTime.now();

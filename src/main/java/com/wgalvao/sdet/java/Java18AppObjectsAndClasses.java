@@ -1,8 +1,8 @@
 package com.wgalvao.sdet.java;
 
-public class Java17App {
+public class Java18AppObjectsAndClasses {
     public static void main(String[] args) {
-        Java17Computer computer1 = new Java17Computer();
+        Java18Computer computer1 = new Java18Computer();
         computer1.GPU = "Nvidia";
         computer1.HARDDISK = "Seagate";
         computer1.MOTHERBOARD = "ASUS";

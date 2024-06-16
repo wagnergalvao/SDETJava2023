@@ -16,7 +16,7 @@ package com.wgalvao.sdet.java;
  * 
  */
 
-public class Java14Strings {
+public class Java15Strings {
     public static void main(String[] args) {
 
         String text01 = "Hello ";

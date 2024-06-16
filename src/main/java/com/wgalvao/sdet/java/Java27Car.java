@@ -1,6 +1,6 @@
 package com.wgalvao.sdet.java;
 
-public class Java24Car extends Java24Vehicle {
+public class Java27Car extends Java27Vehicle {
 
     @Override
     public void drive() {

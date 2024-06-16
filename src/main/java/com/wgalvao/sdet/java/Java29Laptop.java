@@ -1,6 +1,6 @@
 package com.wgalvao.sdet.java;
 
-public class Java27Laptop extends Java27Computer {
+public class Java29Laptop extends Java29Computer {
 
     @Override
     public void start() {
